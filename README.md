@@ -6,13 +6,12 @@ Add and Remove Tasks: Add tasks with ease, and remove them when complete.
 Mark as Complete: Users can toggle tasks as completed to track their progress.
 Persistent Data: Stores tasks locally, so they are available even after page refresh.
 Responsive Design: Works seamlessly on both desktop and mobile devices.
+
 Technologies Used
 HTML/CSS for layout and styling
 JavaScript for dynamic interactivity
 Local Storage to save task data in the browser
-Installation
-Clone the repository:
-bash
+
 Usage
 Click "Add Task" to create a new task.
 Click on a task to mark it as complete or delete it.
